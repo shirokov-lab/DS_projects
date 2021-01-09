@@ -1,0 +1,1 @@
+Purpose is practiсe work with data, data visualization and adding extra parameters
