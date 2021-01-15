@@ -1,4 +1,4 @@
-#Sales Analysis
+# Sales Analysis
 
 What was the best Month for sales?
 What city sold the most product?
