@@ -1,5 +1,5 @@
-# Анализ результатов экзамена по математики учеников возраста от 15 до 22 лет
-Какие параметры влияют на результат экзамена? Выяснив это, можно заранее определять группу риска и предотвращать плохие результаты.
+# Analysis of the results of the math exam for students between 15 and 22 years
+What parameters affect the exam result? By finding this out, it is possible to identify the risk group in advance and prevent bad results.
 
 files:
 1) stud_math.xls - input dataset
