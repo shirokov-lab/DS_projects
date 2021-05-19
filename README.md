@@ -10,3 +10,5 @@ project_2 - What make chocolate bars popular among people?
 project_3 - Preventing bad scores on your math exam
 
 project_4 - TripAdvisor fake reviews research
+
+project_5 - Telegram bot that collects, analyzes and saves data about TikTok videos
