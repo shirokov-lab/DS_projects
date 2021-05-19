@@ -20,10 +20,10 @@ Before launching, you need to enter the token of your bot, created in @BotFather
 And also in the line "admin_id = 0" replace the value of the variable with your ID without quotes.
 You can find out your ID using the @myidbot bot and the "/ getid" command.
 
-###
+@
 
 The "/ start" command is a starting command in a dialogue with a bot, as well as a command to return to the main menu under any circumstances.
 
-###
+@
 
 Before starting a dialogue with the bot, you must turn off the privacy setting in the telegram along the path "Settings -> Confidentiality -> Forwarding messages -> Who can refer to my account when forwarding messages -> All".
