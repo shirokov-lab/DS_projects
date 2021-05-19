@@ -10,11 +10,11 @@ To sum up, this is how you use this bot: regularly adding data about your TikTok
 
 
 
-###
+@
 
 To launch the bot use the bot.py file, after installing all the packages from the requirements.txt file
 
-###
+@
 
 Before launching, you need to enter the token of your bot, created in @BotFather, in the misc.py file, in the line "bot = Bot (token = 'YOUR TOKEN')".
 And also in the line "admin_id = 0" replace the value of the variable with your ID without quotes.
