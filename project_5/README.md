@@ -5,7 +5,7 @@ Firstly, add observation with 'New video' button. Every TikTok = one observation
 Secondly, after adding data, you can get your results by pressing the 'Statistics' button. Then choose, what test's result you need to explore. A) - Correlation Analysis, which can tell you the strength of relationship between two quantitative variables(*e.g.The longer the video, the more views*) especially for your entered data. And B) - t-test, which returns boxplots for a feature with statistically significant differences(*e.g. If your TikToks with sunshine in gains more popularity then without it, it will send you a boxplot with this information*). Thirdly, use 'Clean data' button to delete either the last observation or the whole data.
 To sum up, this is how you use this bot: regularly adding data about your TikToks(don't forget to wait until the view and like rates are fixed), then use statistics to mine some insights about your video-content. As an administrator, I can get all the data in the form of a .csv file of all users for further analysis.
 
-
+Please feel free to try it here: https://tg.telepult.pro/ttbooster_bot
 
 
 
