@@ -1,7 +1,12 @@
-# DS_projects
+# Data science projects
+
+## Table of content
+  * [Projects](#projects)
+    * [project_0 - IMBD movies analysis](#proj0)
 
 
-project_0 - IMDB movies analysis
+
+# project_0 - IMDB movies analysis
 
 project_1 - Analysis of annual sales of an online electronics store
 
