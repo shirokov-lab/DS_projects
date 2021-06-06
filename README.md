@@ -9,6 +9,8 @@
     * [project_4 - TripAdvisor fake reviews research.](#proj4)
     * [project_5 - Telegram bot that collects, analyzes and saves data about TikTok videos.](#proj5)
 
+# Projects
+Evolution of my data science skills. Step by step - project by project.
 
 # project_0 - IMDB movies analysis.
 ### Description:
