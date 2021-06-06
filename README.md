@@ -2,7 +2,7 @@
 
 ## Table of content
   - [Projects](#projects)
-    * [project_0 IMBD movies analysis.](#project_0-imbd-movies-analysis.)
+    * [project_0 IMBD movies analysis.](##project_0-imbd-movies-analysis.)
     * [project_1 - Analysis of sales of an online store.](#proj1-)
     * [project_2 - What make chocolate bars popular among people?](#proj2-)
     * [project_3 - Preventing bad scores on your math exam.](#proj3-)
@@ -14,7 +14,7 @@
 # Projects
 Evolution of my data science skills. Step by step - project by project.
 
-## project_0: IMBD movies analysis.
+## project_0 IMBD movies analysis.
 ### Description:
 This is my first pet-project where i analyse IMDB dataset. Which actor has starred in more high-budget films? For which director is winter the most productive time of the year? What actors are most often filmed together? I answer these and other 20+ interesting questions from movie industry.
 ### Tools:
