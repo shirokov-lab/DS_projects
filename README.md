@@ -9,6 +9,7 @@
     * [project_4 - TripAdvisor fake reviews research.](#project4)
     * [project_5 - Telegram bot that collects, analyzes and saves data about TikTok videos.](#project5)
   - [Contacts](#contacts)
+    * [CV](#cv)
 
 # Projects
 Evolution of my data science skills. Step by step - project by project.
@@ -116,4 +117,5 @@ My girlfriend doing tiktok and I came up with an idea to build a bot which will 
 
 
 # Contacts
-
+Hi, my name is Nikita! Please feel free to contact me. Also, I am currently looking for a job so I am open for any interesting work or project :)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png) @paleasfuck
