@@ -10,7 +10,12 @@
     * [project_5 - Telegram bot that collects, analyzes and saves data about TikTok videos.](#project5)
   - [Contacts](#contacts)
     * [CV](#cv)
-<img src="https://media.tenor.com/images/2ec83aeeb2e9244a2131dab14fdb910e/tenor.gif" alt="alt text">
+
+
+<p align="center">
+  <img src="https://media.tenor.com/images/2ec83aeeb2e9244a2131dab14fdb910e/tenor.gif" />
+</p>
+
 
 # Projects
 This is evolution of my data science skills. Step by step - project by project.
