@@ -3,7 +3,7 @@
 ## Table of content
   - [Projects](#projects)
     * [project_0 IMBD movies analysis.](#project'_'0)
-    * [project_1 - Analysis of sales of an online store.](#proj1-)
+    * [project_1 - Analysis of sales of an online store.](#proj1\-)
     * [project_2 - What make chocolate bars popular among people?](#proj2-)
     * [project_3 - Preventing bad scores on your math exam.](#proj3-)
     * [project_4 - TripAdvisor fake reviews research.](#proj4-)
