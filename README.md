@@ -46,6 +46,7 @@ In this work I had datasets for an every month containing sales information so i
 ### Goal:
 Despite big practicing in writing code with python and working with pandas dataframes — this project made me also explore some business questions, such as: When and why we should display advertisements to maximize the likelihood of purchases? What product sold the most and why? And so on..but main one for me was how actually use data to answer questions like this?
 
+---
 
 ## <a name="project2"></a>project_2 - What make chocolate bars popular among people?
 ### Description:
@@ -63,6 +64,7 @@ What features have the most effect on chocolate bar Rating? Data required great 
 ### Goal:
 Learn how pipelines work — I tried to make my analysis as structured as possible. Practising my python skills with defining functions which helped me a lot during this work. I also wanted to use statistics tests here so I can get a more interpreted insights and results. Moreover, I used great opportunity to improve my English skills while reading lots of documentations and data science articles.
 
+---
 
 ## <a name="project3"></a>project_3 - Preventing bad scores on your math exam.
 ### Description:
@@ -80,6 +82,7 @@ This work as all about Analysis of the results of the math exam for students bet
 ### Goal:
 Main goal was to get a clear understanding why people fail their math exams. How we can prevent it? How we can easily find and recognize risk group and help these students? Does something else apart of real math skills affect stusents' results? How I can put together my investigation work with statistical testing to answer those questions?
 
+---
 
 ## <a name="project4"></a>project_4 - TripAdvisor fake reviews research.
 ### Description:
@@ -100,6 +103,7 @@ There is a TripAdvisor restaurants database which contains lots of interesting f
 ### Goal:
 Main task was building a model which can help TripAdvisor to get rid of scammers — people who boost a restaurant rating and thereby deceive visitors. As for me a great goal was also a starting to learn ML.
 
+---
 
 ## <a name="project5"></a>project_5 - Telegram bot that collects, analyzes and saves data about TikTok videos.
 ### Description:
@@ -116,6 +120,7 @@ Best way to describe this project is just share a link [https://tg.telepult.pro/
 ### Goal:
 My girlfriend doing tiktok and I came up with an idea to build a bot which will provide her some kind of a premium statistics — finding what are those 'parts' of video that makes it popular/unpopular. As a junior data scientist I also have a goal to collect data and do some research on people who do tiktok and their videos. To do this, I need to wait a little while people use the bot so that there will be enough collected data for interesting and quality investigation.
 
+---
 
 # Contacts
 Hi, my name is Nikita! Please feel free to contact me. Also, I am currently looking for a job so I am open for any interesting work or project :)
