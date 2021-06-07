@@ -13,7 +13,7 @@
 # Projects
 Evolution of my data science skills. Step by step - project by project.
 
-## <a name="project0"></a>project0 IMBD movies analysis.
+## project0 IMBD movies analysis.
 ### Description:
 This is my first pet-project where i analyse IMDB dataset. Which actor has starred in more high-budget films? For which director is winter the most productive time of the year? What actors are most often filmed together? I answer these and other 20+ interesting questions from movie industry.
 ### Tools:
