@@ -1,5 +1,5 @@
 # Data science portfolio
----
+
 ## Table of content
   - [Projects](#projects)
     * [project_0 - IMBD movies analysis.](#project0)
@@ -27,7 +27,7 @@ This is my first pet-project where I analyze IMDB dataset. Which actor has starr
 - Seaborn
 ### Goal:
 Main goal of this work is practicing my data-managing skills such as: data visualization, insight mining and basic EDA.
-
+---
 
 ## <a name="project1"></a>project_1 - Analysis of sales of an online store.
 ### Description:
