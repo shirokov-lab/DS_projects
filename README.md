@@ -118,4 +118,4 @@ My girlfriend doing tiktok and I came up with an idea to build a bot which will 
 
 # Contacts
 Hi, my name is Nikita! Please feel free to contact me. Also, I am currently looking for a job so I am open for any interesting work or project :)
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png) @paleasfuck
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png width="100" height="100") @paleasfuck
