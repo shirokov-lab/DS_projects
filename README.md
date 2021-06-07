@@ -12,7 +12,7 @@
     * [CV](#cv)
 
 # Projects
-Evolution of my data science skills. Step by step - project by project.
+This is evolution of my data science skills. Step by step - project by project.
 
 ## <a name="project0"></a>project_0 - IMBD movies analysis.
 ### Description:
