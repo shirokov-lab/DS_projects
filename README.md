@@ -136,4 +136,4 @@ Hi, my name is Nikita! Please feel free to contact me. Also, I am currently look
 
 ## CV
 
-![alt text](https://github.com/shirokov-lab/DS_projects/blob/master/shirokov_nikita_CV.pdf "Logo Title Text 1")
+![click to open](https://github.com/shirokov-lab/DS_projects/blob/master/shirokov_nikita_CV.pdf)
