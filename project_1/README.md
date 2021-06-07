@@ -1,13 +1,6 @@
-# Sales Analysis
 
-1) What was the best Month for sales?
-2) What city sold the most product?
-3) What time should we display advertisements to maximize the likelihood of purchases?
-4) What products are most often sold together?
-5) What product sold the most? Why do you think it did?
+### files:
 
-- data merging
-- basic eda
-- adding extra params
-- patterns search
-- data visualization
+1) Sales_Data - folder with data per month
+2) Sales.ipynb - main work
+3) aall_data.csv - dataset with annualy sales
