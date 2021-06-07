@@ -135,4 +135,4 @@ Hi, my name is Nikita! Please feel free to contact me. Also, I am currently look
 
 
 ## CV
-soon update it here
+<iframe src="https://drive.google.com/file/d/1J2EBvvryjvGtUJS2abqKVBb9BItG-7qN/view?usp=sharing" style="width:718px; height:700px;" frameborder="0"></iframe>
