@@ -9,7 +9,6 @@
     * [project_4 - TripAdvisor fake reviews research.](#project4)
     * [project_5 - Telegram bot that collects, analyzes and saves data about TikTok videos.](#project5)
   - [Contacts](#contacts)
-    * [CV](#cv)
 
 
 <p align="center">
@@ -133,7 +132,3 @@ Hi, my name is Nikita! Please feel free to contact me. Also, I am currently look
 
 <img src="https://seeklogo.net/wp-content/uploads/2015/11/telegram-logo-vector-download-400x400.jpg" alt="alt text" width="25" height="25"> @paleasfuck
 
-
-## CV
-
-![click to open](https://github.com/shirokov-lab/DS_projects/blob/master/shirokov_nikita_CV.pdf)
