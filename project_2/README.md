@@ -1,7 +1,7 @@
-# What parameters have the most affect on chocolate bar Rating?
 
-- Mistakes detecting and solving
-- Check data for duplicate / fully correlated values
-- Managing data outliers
-- Selection of data suitable for further model building.
-- Data visualization
+### files:
+
+1) cacao_flavors.xls - input dataset
+2) data clean.ipynb - eda
+3) cleaned.csv - cleaned data
+4) data analysis.ipynb - analytical work
