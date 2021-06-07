@@ -118,4 +118,4 @@ My girlfriend doing tiktok and I came up with an idea to build a bot which will 
 
 # Contacts
 Hi, my name is Nikita! Please feel free to contact me. Also, I am currently looking for a job so I am open for any interesting work or project :)
-<img src="https://seeklogo.net/wp-content/uploads/2015/11/telegram-logo-vector-download-400x400.jpg" alt="alt text" width="100" height="100"> @paleasfuck
+<img src="https://seeklogo.net/wp-content/uploads/2015/11/telegram-logo-vector-download-400x400.jpg" alt="alt text" width="30" height="30"> @paleasfuck
