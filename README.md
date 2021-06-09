@@ -91,7 +91,7 @@ Main goal was to get a clear understanding why people fail their math exams. How
 
 ## <a name="project4"></a>project_4 - TripAdvisor fake reviews research.
 ### Description:
-There is a TripAdvisor restaurants database which contains lots of interesting for analysis features. It seems like some restaurants be 'boosting' their rating with fake reviews. I built a model which predict Restaurant Rating so we can compare my predict and real value. In case there is a large difference — we should check if this restaurant's reviews are fair. I build and test hypotheses using statistics, do Feature engineering including polynomial features. I also create and train regression model and test it with metrics. Big preprocessing(missing values, outliers, mistakes) was required as well.
+There is a TripAdvisor restaurants database which contains lots of features that are interesting for analysis. It seems like some restaurants be 'boosting' their rating with fake reviews. I built a model which predict Restaurant Rating so we can compare my predict and real value. In case there is a large difference — we should check if this restaurant's reviews are fair. I build and test hypotheses using statistics, do Feature engineering including polynomial features. I also create and train regression model and test it with metrics. Big preprocessing(missing values, outliers, mistakes) was required as well.
 ### Tools:
 - Python
 - Pandas
