@@ -8,6 +8,8 @@
     * [project_3 - Preventing bad scores on your math exam.](#project3)
     * [project_4 - TripAdvisor fake reviews research.](#project4)
     * [project_5 - Telegram bot that collects, analyzes and saves data about TikTok videos.](#project5)
+    * [project_6 - Developing credit risk model.](#project6)
+
   - [Contacts](#contacts)
 
 
@@ -127,8 +129,25 @@ My girlfriend doing tiktok and I came up with an idea to build a bot which will 
 
 ---
 
+## <a name="project6"></a>project_6 - Developing credit risk model.
+### Description:
+Some years ago people were deciding wether to take out a loan based only on credit history and income. It worked good but not perfect: there were lots of cases when loan was took out for someone who didnt pay loan back and also cases when people didnt get loans even though they would pay it back. All these cases cause waste of money for banks. For now, we live in a world where we have lots of information and its accessible: biometrics, social societies, bki and so on. All modern banks now using machine learning to minimize cases I mentioned and maximize profit. I would like to try myself in this task.
+### Tools:
+- Python
+- aiogram
+- SQLAlchemy
+- Scipy
+- async
+- Pandas
+- Numpy
+- Seaborn
+### Goal:
+Main goal is to predict probabilities wether loan will be returned. For now I would like to practice using linear regression, but in future I will try other algorithms as well. 
+
+---
+
 # Contacts
-Hi, my name is Nikita! Please feel free to contact me. Also, I am currently looking for a job so I am open for any interesting work or project :)
+Hi, my name is Nikita! Please feel free to contact me. I am open for any interesting work or project :)
 
 <img src="https://seeklogo.net/wp-content/uploads/2015/11/telegram-logo-vector-download-400x400.jpg" alt="alt text" width="25" height="25"> @paleasfuck
 
